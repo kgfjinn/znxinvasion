@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://d.top4top.io/p_2087chafk2.jpg" alt="ZNX INVASION BOT V2" width="300" />
+<img src="https://d.top4top.io/p_2087chafk2.jpg" alt="MICKEY X CANNIBAL" width="300" />
 
 >
 >
@@ -9,7 +9,7 @@
   <a href="https://github.com/TheGetsuzoThunder"><img title="Author" src="https://img.shields.io/badge/ThunderX7-ZNX%20INVASION-red" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/62853338317160">OWNER</a>
+  <a href="https://wa.me/62853338317160">OWNER_MICKEYXCANNBAL</a>
 </h4>
 </p>
 
